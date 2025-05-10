@@ -1,0 +1,12 @@
+com/quod/antifraude/model/Dispositivo.class
+com/quod/antifraude/repository/ValidacaoRepository.class
+com/quod/antifraude/model/BiometriaRequest.class
+com/quod/antifraude/AntifraudeApplication.class
+com/quod/antifraude/controller/DocumentoController.class
+com/quod/antifraude/model/ResultadoValidacao.class
+com/quod/antifraude/service/DocumentoService.class
+com/quod/antifraude/controller/NotificacaoController.class
+com/quod/antifraude/model/Metadados.class
+com/quod/antifraude/service/NotificacaoService.class
+com/quod/antifraude/controller/BiometriaController.class
+com/quod/antifraude/service/BiometriaService.class
