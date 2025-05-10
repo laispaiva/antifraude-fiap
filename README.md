@@ -34,7 +34,7 @@ Backend desenvolvido para o Challenge FIAP & QUOD - Sprint 2, com foco em valida
 ### Passos
 ```bash
 # Clone o projeto
-git clone <URL_DO_SEU_REPO>
+git clone https://github.com/laispaiva/antifraude-fiap.git
 cd antifraude
 
 # Execute com Maven
